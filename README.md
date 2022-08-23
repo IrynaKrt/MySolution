@@ -1,4 +1,5 @@
 ﻿# MySolution
+
 .
 ¸.Ƹ̴Ӂ̴Ʒ  ♥
 ☼´¯) ¸.❉´¯)
@@ -30,5 +31,6 @@ _С██ __██O
 ⣿⣿⡋⠐⢰⠁⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠘⣿⣿
 
 
-P.S. I'm moreserious than I seem (つ ͡° ͜ʖ ͡°)つ
-If you're businesslike and "too smart" all the time, they will not communicate with you)
+P.S. I'm more serious than I seem (つ ͡° ͜ʖ ͡°)つ
+But...
+If you're too businesslike and "too smart" all the time, they will not communicate with you)
