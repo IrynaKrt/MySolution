@@ -1,6 +1,6 @@
 // This is my first solution
 function isIsogram(str){
-    return !str.match(/([a-z])?!.*\1/ig) 
+    return !str.match(/([a-z]).*\1/ig) //only these symbols!
 }
   
   
