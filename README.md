@@ -9,8 +9,7 @@
 _С██ __██O
 ~~~~~~~~~~
 
-#Hi! This is my second repository "MySolution" (*≧∀≦*)
-#Here I'll post #MySolution ☆
+#Hi! This is repository with "MySolution" from Codewars(*≧∀≦*)
 #I'm just studing now, but I want to belive that I can something ♥
 
 
